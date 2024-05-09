@@ -38,7 +38,7 @@ Or just download and import them manually. From here, make sure your disk drive 
 ```
 mkdir startup
 ```
-Here, get the file name of your earlier turtle software pick. Here, we'll use tunnel1.lua:
+Here, get the file name of your earlier turtle software pick. We'll use tunnel1.lua:
 ```
 move tunnel1.lua startup
 ```
