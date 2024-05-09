@@ -1,5 +1,5 @@
 # multiturtle
-Sync up multiple ComputerCraft turtles to do one big task! Helpful for digging out tunnels, or building big paths.
+Sync up multiple ComputerCraft turtles to do one big task! Helpful for digging out tunnels or building big paths.
 
 ## Requirements
 Material wise, you'll need:
