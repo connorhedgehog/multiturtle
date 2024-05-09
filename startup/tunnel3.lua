@@ -10,9 +10,10 @@ repeat
   event, side, channel, replyChannel, message, distance = os.pullEvent("modem_message")
 until channel == port
 
+turtle.refuel()
+
 -- the message is how many blocks the turtle should go
 for i=1, message do
-    turtle.refuel()
     turtle.dig()
     turtle.forward()
     turtle.digUp()
